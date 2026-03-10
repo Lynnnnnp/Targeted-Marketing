@@ -1,7 +1,6 @@
-# Targeted-Marketing
+# Background overview (& GOALs)
 Chrun rate prediction for each subscriber, and create personalized &amp; targeted campaigns to reduce subscriber churn based on the subscribers' segmentations.
 
-# Background overview (& GOALs)
 Link out the technical stuff:
   Code:
     1. EDA
